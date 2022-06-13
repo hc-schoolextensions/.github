@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 🙋‍♂️ About Us: 
-hc-schoolextensions creates websites and extensions. Some of these are particularly useful for schools, hence the name @hc-schoolextensions.
+hc-schoolextensions creates websites and extensions. Some of these are particularly useful for schools, hence the name hc-schoolextensions.
 
 <!--
 
