@@ -3,9 +3,6 @@
 🙋‍♂️ About Us: 
 hc-schoolextensions creates websites and extensions. Some of these are particularly useful for schools. If you would like a website or extension created for you, feel free to email us with your request.
 
-📫 How to reach us:
-hc-schoolextensions.5sm3r@slmail.me
-
 <!--
 
 **Here are some ideas to get you started:**
