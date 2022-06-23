@@ -3,9 +3,6 @@
 🙋‍♂️ About Us: 
 hc-schoolextensions creates websites and extensions for various applications. Many of these applications involve schools.
 
-📫 How to reach us:
-Open an issue on [hc-schoolextensions/work](https://github.com/hc-schoolextensions/work).
-
 <!--
 
 **Here are some ideas to get you started:**
