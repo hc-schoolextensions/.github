@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 🙋‍♂️ About Us: 
-slcs-dev creates websites and extensions for various applications. Many of these applications involve schools.
+we create websites and extensions for various applications. Many of these applications involve schools.
 
 <!--
 
