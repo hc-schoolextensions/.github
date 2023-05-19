@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 🙋‍♂️ About Us: 
-hc-schoolextensions creates websites and extensions for various applications. Many of these applications involve schools.
+slcs-dev creates websites and extensions for various applications. Many of these applications involve schools.
 
 <!--
 
